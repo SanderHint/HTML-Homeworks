@@ -1,0 +1,28 @@
+
+body {
+    background-color: green;
+}
+h1 {
+    font-family: "Comic Sans MS", sans-serif;
+
+}
+h2 {
+    text-decoration: underline red;
+}
+h3 {
+    text-align: left;
+    border-top: 3px solid darkblue;
+    border-bottom: 3px solid darkblue;
+    border-left: 3px solid darkblue;
+    border-right: 3px solid darkblue;
+    border-radius: inherit;
+    padding-right: 50px;
+    margin-right: 950px;
+
+
+}
+h4 {
+    margin-top: 200px;
+    padding-left: 100px;
+}
+
